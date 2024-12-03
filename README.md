@@ -70,6 +70,12 @@ Developed by: Raagavi RM RegisterNumber: 24900010
 
 **RTL**
 
+**K-Map**
+
+![Exp2 kmap1](https://github.com/user-attachments/assets/2a59efcc-bda1-440c-a016-cfa71a58d354)
+
+![Exp2 kmap2](https://github.com/user-attachments/assets/ce826589-8365-4e77-ba6f-a8edd6fe96ee)
+
 **Timing Diagram**
 
 **Result:**
